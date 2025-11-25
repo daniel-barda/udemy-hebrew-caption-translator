@@ -1,0 +1,5 @@
+body{font-family:sans-serif;background:#111;color:#fff;padding:10px;min-width:230px;}
+h2{font-size:16px;margin:0 0 8px 0;}
+label{display:flex;justify-content:space-between;align-items:center;margin-top:10px;font-size:13px;}
+input[type=range]{width:110px;}
+span{min-width:30px;text-align:left;}
